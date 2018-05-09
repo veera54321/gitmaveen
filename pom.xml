@@ -44,13 +44,13 @@
 <repository>
 <id>veera1</id>
 <url>
-http://localhost:8081/nexus/content/repositories/ARTECH/
+http://localhost:8081/nexus/content/repositories/veera1/
 </url>
 </repository>
 <snapshotRepository>	
 <id>veera</id>
 <url>
-http://localhost:8081/nexus/content/repositories/Ramakanth/
+http://localhost:8081/nexus/content/repositories/veera/
 </url>
 </snapshotRepository>
 </distributionManagement>
